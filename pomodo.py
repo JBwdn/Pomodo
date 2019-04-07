@@ -24,3 +24,4 @@ while 1 > 0:
         mins += 1
     # Play sound:
     print("\a")
+    mode = ""

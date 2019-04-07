@@ -19,7 +19,7 @@ while 1 > 0:
     # Reset and run timer:
     mins = 0
     while mins != t:
-        print('>>>>', mins)
+        print(mins, end=" ", flush=True)
         time.sleep(60)
         mins += 1
     # Play sound:

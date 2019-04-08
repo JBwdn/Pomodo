@@ -8,4 +8,3 @@ Commands:
 - S : Short break (5 minutes)
 - L : Long break (10 minutes)
 - Q : Quit program
--
